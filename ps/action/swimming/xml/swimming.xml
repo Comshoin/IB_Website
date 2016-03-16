@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Swimming</title>
+    <advisor>Mr. Moodie</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>swimming1.jpg</image>
+            <caption></caption>
+        </imagegroup>
+        <imagegroup>
+            <image>swimming2.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>1922976_10203362402090337_193820790_n.jpg</image>
+        </imagegroup>
+    </imagelist>
+ <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <subheadline>Description</subheadline>
+            <main maintype="normal">One of the most competitive teams at St. Mary’s, the swim team consists of 93 members spanning ages 8 to 18 years from select international schools in Japan. The swim team competes against schools locally and internationally. The St. Mary’s Buccaneers have produced an olympic swimmer in addition to having over 40 members go on to compete at the university level. The Buccaneers have also received a club excellence award from the Japanese Amateur Swimming Federation for consistently sending students to the Japan Swimming Championships over the past 20 years. For more information, please click the link below to go to the Buccaneers' official website.</main>            
+<main maintype="normal">&lt;a href=&quot;https://sites.google.com/a/smistitans.org/buccaneers&quot;&gt; Buccaneers Site &lt;/a&gt;</main>
+        </subcontent>
+    <subcontent>
+        <subheadline>Practice Times</subheadline>
+          <main maintype="list">Mondays: 6:30-8:15am, 4:00-6:00pm</main>
+            <main maintype="list">Tuesdays: 3:30-6:00pm</main>
+            <main maintype="list">Wednesdays: 4:00-6:00pm</main>
+            <main maintype="list">Thursdays: 6:30-8:15am, 3:30-6:00pm</main>
+            <main maintype="list">Fridays: 4:00-6:00pm</main>
+            <main maintype="list">Saturdays: 9:00-11:00am</main>
+           </subcontent>
+    </content>
+</cas>

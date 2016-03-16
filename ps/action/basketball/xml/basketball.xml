@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Basketball</title>
+    <advisor>JV Mr. Thiesen V Mr. Clarkson</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>2013_2014basketball1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014basketball2.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014basketball3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014basketball4.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014basketball5.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+        <main maintype="normal">Basketball is a very important sport here at St. Mary's. Every winter season students try their best against other schools. Basketball is all about teamwork. As a team, we try our best to support each other and improve your skills, for the goal, winning the Far East tournament. If you like basketball and working hard, trying out for basketball team should be a nice idea. Even if you are not that experienced with the sport, you will have JV to improve your skills. Also, a lot of people come to watch our games, especially against ASIJ. We lost against ASIJ for the past 7 years, and finally defeated ASIJ this year. Playing in front of many people is a special thing, and feels awesome. Come out to the tryouts and be part of the team.</main>
+		</subcontent>
+		</content>
+		<content>
+		<headline>Basketball Website</headline>
+        <subcontent>
+        <main maintype="normal">To access the website of the SMIS Basketball Titans, click the following link:</main><main maintype="normal">&lt;a href=&quot;Basketball link: smistitansbasketball.com&quot;&gt;SMIS Basketball Website&lt;/a&gt;</main> 
+       </subcontent>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Daily practice from 3:30pm to 5:00 pm in the Gym.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Season Summary</subheadline>
+            <main maintype="normal">&amp;quot;This year's basketball season has been a really long one. Starting from the Hong Kong Tournament to the Far East Tournament, it has been a really long run. When the season opened for us, we had one goal in mind and that was to win Far East. Even though in the end we did not achieve that goal, but we still placed top ten in the tournament. St Mary's has never placed top ten since 2009 when Coach Sava won his last Far East championship. So this was a big achievement for us. Speaking of Coach Sava, we also held the Fred Sava memorial tournament. This was the third year we held it and yet again, we won all three games which gave us the championship in this tournament. including this achievement, we've won many more achievements throughout the season. The Hong Kong tournament was a big one for us. We placed 3rd place in the Hong Kong Tournament and this has never happened to St.Mary's in 14years. Hong Kong was a great experience for us as a team and for myself personally. Overall, as a captain, I have to say this year was an amazing experience. The boys including myself put amazing effort into every practice and I have to say this year was probably the most memorable season for me. I like to thank for all the supporters out there as well, for coming to all the home games and even away games just to support us! Once again, this year was an amazing basketball year for St.Mary's and I hope it continues throughout the next few years at St.Mary's. &amp;quot;</main>
+            <main maintype="normal">Captain of the Varsity Basketball Team, Andrew Jones&lt;br /&gt;&lt;br /&gt;&amp;quot;Playing hard for Coach Sava.&amp;quot;</main>
+        </subcontent>
+    </content>
+</cas>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Cross Country</title>
+    <advisor>JV and V Mr. McGuire</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>2013_2014crosscountry1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014crosscountry3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014crosscountry2.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014crosscountry4.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+        <main maintype="normal">Cross Country, or XC for short, is a sport offered here at St. Mary's International School. XC is all about running against both the other teams, and your own time. If you like running or just want to try something different then XC is the sport for you. Even if you're not the greatest at running you can still join. If you beat your PB that means you are doing great. We meet out on the field to stretch and warm up before our run after school. As a team, we travel by bus to meets at Tama Hills to compete against other schools in the Kanto Plain region. To finish all the meets there is also finals to really test your running ability. Besides finals there is also the possibility to attend the Far East and Guam meets. These meets are for the top seven runners on the team. Anyone can join and run; the only requirement to run at meets is a 5k time under 30 minutes, easy! Remember, run fast and don’t fall.</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Practice is four days a week from 3:30 to 5:00. To really be prepared for the course we have a variety of workouts. We run long, short, medium, and lots of hills for the dreaded killer hill. All of these different runs help prepare the team to do well at all of the meets.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2014 Meet Results</headline>
+        <subcontent>
+            <subheadline>Kanto League Meet #1</subheadline>
+            <main maintype="normal">&lt;span lang=&quot;EN-US&quot;&gt;On September 13th, the St. Mary's Titans ran against St Maur International School at Tama Hills. For this race, everyone ran at once in a single heat. The team was not split up into Varsity and Junior Varsity. SMIS  got second place with 55 points, losing only to ASIJ who obtained 16 points. In third place came St Maur International School with 82 points. More details on the results can be found here:</main><main maintype="normal">&lt;a href=&quot;http://www.athletic.net/CrossCountry/Results/Meet.aspx?Meet=100297#21684&quot;&gt;Meet 1 Results &lt;/a&gt;</main>       
+        </subcontent>
+        <subcontent>
+            <subheadline>Kanto League Meet #2</subheadline>
+            <main maintype="normal">&lt;span lang=&quot;EN-US&quot;&gt;On September 20th, St. Mary's ran against Zama. The Varsity team got third place with 80 points.  Junior Varsity came in first place with 24 points. In second and third was ASIJ and St Maur International School with 58 and 60 points respectively. More details on the results can be found here:</main> <main maintype="normal">&lt;a href=&quot;http://www.athletic.net/CrossCountry/Results/Meet.aspx?Meet=100432#21684&quot;&gt;Meet 2 Results &lt;/a&gt;</main>         
+        </subcontent>
+        <subcontent>
+            <subheadline>Kanto League Meet #3</subheadline>
+            <main maintype="normal">&lt;span lang=&quot;EN-US&quot;&gt;On September 27th, St. Mary's ran against all of the schools. The Varsity team got second place with 92 points. In third place was N.C. Kinnick with 106 points. Junior Varsity came in first place with 26 points. In second place was St Maur International School with 46 points and then ASIJ with 54 points. More details on the results can be found here:</main><main maintype="normal">&lt;a href=&quot;http://www.athletic.net/CrossCountry/Results/Meet.aspx?Meet=100434#21684&quot;&gt;Meet 3 Results &lt;/a&gt;</main>         
+        </subcontent>
+        <subcontent>
+            <subheadline>Kanto League Meet #4</subheadline>
+            <main maintype="normal">&lt;span lang=&quot;EN-US&quot;&gt;On October 9th, the St. Mary's Titans ran against ASIJ, Kinnick, and CAJ.&lt;/span&gt;</main>
+            </subcontent>
+            <subcontent>
+                    <subheadline>Kanto League Finals</subheadline>
+            <main maintype="normal">&lt;span lang=&quot;EN-US&quot;&gt;On October 25th, the St. Mary's Titans ran their best at finals. The Varsity team came in second place with 65 points. ASIJ got first place with a score of 22 points. In third place was N.C. Kinnick with 66 points. It was close but we beat them. Like the Varsity, the Junior Varsity was second place with a score of 36 points, Coming very close to ASIJ who had 33 points. In third was St Maur International School with 89 points. More details on the results can be found here:</main><main maintype="normal">&lt;a href=&quot;http://www.athletic.net/CrossCountry/Results/Meet.aspx?Meet=100441#21684&quot;&gt;Final Results &lt;/a&gt;</main>  
+       </subcontent>
+    </content>
+</cas>

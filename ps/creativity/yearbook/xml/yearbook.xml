@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Yearbook</title>
+    <advisor></advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>yearbook1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>yearbook2.jpg</image>
+        </imagegroup>
+           </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The Yearbook is one of the elective classes offered at St. Mary’s for all high school students. It is a year-long class where students collaborate to produce a cohesive yearbook with pages dedicated to every grade level and most of the major activities. Members of the class not only design the pages, but they also coordinate with the various teachers ensure accurate completion of the respective pages. For example, many of the sports pages require the assigned members to take photographs at the events, collect statements from the coaches regarding the season, design the layouts for the pages and finally get confirmation. The pages are very photo-oriented and thus require many candid photos of the students. A dedicated photographer may provide photos for some of the school events. However much of the work must come from the students in the yearbook class. The yearbook class can be used as Creativity for those in the IB program. </main>
+        </subcontent>
+    </content>
+</cas>

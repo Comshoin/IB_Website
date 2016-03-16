@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Habitat for Humanity</title>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>habitatforhumanity1.jpg</image>
+            <caption>Habitat for Humanity Logo</caption>
+        </imagegroup>
+        <imagegroup>
+            <image>habitatforhumanity2.png</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">You would be helping less fortunate people in the Philippines with various building projects such as schools and libraries. This is a long term commitment as it requires fundrasing from September through to March. This group had been one of the most committed groups here at St.Mary's, often driven my highly motivated upperclassmen who are eager to make difference by serving the underserved.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>NOTICE</headline>
+        <subcontent>
+            <subheadline>Looking for Future Possibilities</subheadline>
+            <main maintype="normal">Although Habitat for Humanity has been very active, there was no school involvement in this group this year. Therefore, currently, the group looks for opportunities to become active anew; the group needs to help the regions of the Philippines, which received tremendous damages from the Typhoon.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

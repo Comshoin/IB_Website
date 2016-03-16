@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Weight Training</title>
+    <advisor>Mr.O'Hagan</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>weighttraining1.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Practice Monday, Wednesday, and Friday from 3:30pm to 5:00pm in the Weight Room</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Weight Lifting Insiders</subheadline>
+            <main maintype="normal">Coached by Mr.O'Hagen, weightlifting is a strength sport that focuses on mastering three main lifts: squat, bench press, and deadlift. Students train three times a week to lift heavier weights with better posture and precision. Supplementary exercises are implemented in the training program as well to build balance and strength.&amp;nbsp;</main>
+            <main maintype="normal">Powerlifting is one of the most popular sports at St.Mary's, with students joining in to prepare for other athletics and to keep fit during the season.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

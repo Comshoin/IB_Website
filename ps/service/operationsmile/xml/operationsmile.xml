@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Operation Smile</title>
+    <advisor>Mr. Copping</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>operation_smile1.JPG</image>
+        </imagegroup>
+        <imagegroup>
+            <image>operation_smile2.JPG</image>
+        </imagegroup>
+        <imagegroup>
+            <image>Operation_smile3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>Operation_smile_motto.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>1_31_2014_1001.JPG</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">Welcome to Operation Smile! This worldwide funding organization helps children born with cleft lips and palates live a normal life. Cleft palate is a facial deformity in which the palate (roof of the mouth) does not close properly. This causes deformity in the lip, and makes the nose and mouth to fuse. It is very difficult for children with cleft palates to eat and drink properly, and these children face speaking problems, too. On top of that, children with the deformity are often alienated and bullied, just because they are different.</main>
+            <main maintype="normal">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; About 1 in 700 babies are born with cleft palate. Some of them live a normal life, because surgery is very simple and is relatively cheap (25,000 Yen). Sadly, most of them cannot enjoy a normal life, simply because they do not have 25,000 Yen. Our goal is simple: give children 25,000 yen, so they can finally smile. We welcome anyone interested in helping a fellow human being.</main>
+            <main maintype="normal">&lt;a href=&quot;www.operationsmile.org&quot;&gt; Please click here to visit the official site of Operation Smile &lt;/a&gt;</main>
+            <main maintype="normal">&amp;nbsp;</main>
+            <main maintype="normal">&amp;nbsp;</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Philosophy</headline>
+        <subcontent>
+            <subheadline>Aims</subheadline>
+            <main maintype="list">First, we have to raise the awareness about the cleft palate and Operation Smile. Our group does this by making posters, having a booth during school events, presenting in many places via video, et cetera.</main>
+            <main maintype="normal">&amp;nbsp;</main>
+            <main maintype="list">Next, we collect donations. This year, we have so far raised 66,000 Yen at school events such as Bingo Night and the Festival of Nations, and in the future we are not only planning to create events of our own such as Smile competitions and dress-down-days, but also trying to reach the wider Japanese population at Shibuya. Some point next year, we will hold a Smile Week at school with the purpose of both raising money and imparting information about our cause.</main>
+            <main maintype="normal">&amp;nbsp;</main>
+            <main maintype="list">We are also looking for as many recruits as possible. Join Operation Smile and make a difference in someone?fs life! For any information about joining or upcoming events, talk to the club officers and stop by the bulletin board on the second floor!</main>
+            <main maintype="normal">&amp;nbsp;</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Group Philosophy</subheadline>
+            <main maintype="normal">Every penny we raise for this group helps the infected children in a gradual process. Working together efficiently will make each member a better person.&amp;nbsp;</main>
+            <main maintype="normal">We aim is to change children's lives forever through a simple operation. Also, operation smile strives to support local partners by giving tools and training that they need to treat children. Unlike the parent philosophy, we do not help local partners and we aim to do the work ourselves. However, we are supporting the organization's cause by dedicatingour time to helping children.&amp;nbsp;</main>
+            <main maintype="normal">Lastly, DON'T FORGET TO SMILE!</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Club Organization 2015~2016</headline>
+        <subcontent>
+            <subheadline>Leaders</subheadline>
+            <main maintype="normal">President: Alex Repeta</main>
+            <main maintype="normal">Vice-President: Junwoo Hwang</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Schedule</headline>
+        <subcontent>
+            <subheadline>Donations and Pledges</subheadline>
+            <main maintype="normal">Operation Smile is also diligently working to secure a date to go out and collect donations and pledges from the wider Japanese populace. This event will take place over a whole day at Shibuya at a date yet to be determined.&amp;nbsp;</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Save a Child Initiative</subheadline>
+            <main maintype="normal">Next Wednesday Operation Smile will be starting the SMIS leg of the &amp;quot;Save a Child&amp;quot; initiative, a call for as many people to dress-down in the organization's colors (red, blue, and white) and donate a minimum amount of 200 yen in order to save a child by the end of the day. The event will take place at both the High and Middle Schools and it is an opportunity for ll of us to extend a hand t a less fortunate child.&amp;nbsp;</main>
+            <main maintype="normal">&amp;nbsp;</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Past Events</headline>
+        <subcontent>
+            <subheadline>SMIS Bingo</subheadline>
+            <main maintype="normal">Operation Smile was invovled with the SMIS Bingo toward the end of the year. Over 12,000 yen was raised in a mission that did not necessarily aim for the collection of money but for the education of the larger populace s to the means of our organization. The Bingo was part of a larger publicity campaign that included a brand-new bulletin board updated with information and a video slot during lunch in the cafeteria.</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Seisen Carnival</subheadline>
+            <main maintype="normal">The first event Operation Smile participated in this year happened to be the Seisen Festival of Nations Through donations and pledges, members of Smile raised 65,000 yen in just over 4 hours, spreading awareness through the larger community and attracting many generous donors.&amp;nbsp;</main>
+            <main maintype="normal">&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

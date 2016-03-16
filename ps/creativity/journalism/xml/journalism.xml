@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Publications</title>
+    <advisor></advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>journalism1.png</image>
+            <caption>Publications</caption>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The Diplomat is St. Mary's official newspaper, organized and run by twenty talented high school students under the guidance of Mr. Donovan. The group works diligently to produce in-depth articles of high quality in the areas of athletics, fine arts, academics, and general entertainment. For the first time in its history, The Diplomat has gone online and is publicly accessible at the link below. Check out the website and stay abreast with any and all Titan happenings!&amp;nbsp;</main>
+            <main maintype="normal">&amp;nbsp;</main>
+            <main maintype="list">&lt;a href=&quot;http://diplomat.smis.ac.jp&quot;&gt;Please Click This Link to Visit the Online SMIS Diplomat Page&lt;/a&gt;</main>
+            <main maintype="normal">As far as publications go, they are not periodical any more, since we are digital, we publish every time we have a new article.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Journalists</headline>
+        <subcontent>
+            <subheadline>Members</subheadline>
+            <main maintype="list">Kaushik Swaminathan</main>
+            <main maintype="list">Shubhankar Peshin</main>
+            <main maintype="list">Hong Yi He&amp;nbsp;</main>
+            <main maintype="list">Yusuke Takahashi&amp;nbsp;</main>
+            <main maintype="list">Joshua Byland&amp;nbsp;</main>
+            <main maintype="list">Ryota Hiramitsu&amp;nbsp;</main>
+            <main maintype="list">Shane Brett&amp;nbsp;</main>
+            <main maintype="list">Eddie Sweeney&amp;nbsp;</main>
+            <main maintype="list">Charles Roth&amp;nbsp;</main>
+            <main maintype="list">Maurice O?Sullivan&amp;nbsp;</main>
+            <main maintype="list">Aditya Somasundaram&amp;nbsp;</main>
+            <main maintype="list">Fabian Cabeza&amp;nbsp;</main>
+            <main maintype="list">Alex Repeta&amp;nbsp;</main>
+            <main maintype="list">Taisei Igarashi&amp;nbsp;</main>
+            <main maintype="list">Abraham Lee&amp;nbsp;</main>
+            <main maintype="list">Taiki Mochizuki&amp;nbsp;</main>
+            <main maintype="list">Liam Langan&amp;nbsp;</main>
+            <main maintype="list">Shoju Shi</main>
+        </subcontent>
+    </content>
+</cas>

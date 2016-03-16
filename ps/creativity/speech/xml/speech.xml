@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Speech</title>
+    <advisor>Ms. Gordon</advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>speech1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>speech2.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The speech team is a team that allows students to showcase their talent for speech in 8 categories of rhetoric:</main>
+            <main maintype="list">Original Informative</main>
+            <main maintype="list">Original Persuasive</main>
+            <main maintype="list">Humorous Interpretation</main>
+            <main maintype="list">Dramatic Interpretation</main>
+            <main maintype="list">Extemporaneous</main>
+            <main maintype="list">Dramatic Duo</main>
+            <main maintype="list">Poetic Interpretation</main>
+            <main maintype="list">Multiple Reading</main>
+            <main maintype="normal">The advisors, headed by Ms. Gordon, through a series of tryout pick two groups for students or groups for each category. This variety of categories allows students to focus in on their best oratory abilities. The selected speakers then prepare for the Speech Contest that takes place at the end of November, occurring in any one of the international schools around Tokyo that is chosen to host it. For the time leading up to the event, the team members are assigned to one of the coaches, and can set up weekly times when they can practice their speeches with their coaches and receive constructive criticism in order to improve their speeches. The amount of time put in to the making these finely tuned and well-practiced speeches pay off when, not only the audience responds well to your speech, but also when this practices allows students to communicate much better, with better poise, eye contact, and much more confidence.</main>
+        </subcontent>
+    </content>
+    <content>
+        <subcontent>
+            <subheadline>2015 Members and Awards</subheadline>
+            <main maintype="list">Dramatic Duo- Nilay Hingarh &amp;amp; Atharv Patankar</main>
+            <main maintype="list">Dramatic Duo- Nishad Govindarajihan &amp;amp; Nikita Romanov: Silver&amp;nbsp;</main>
+            <main maintype="list">Dramatic Interpretation- Ekamjot Bedi: Gold</main>
+            <main maintype="list">Dramatic Interpretation- Alex Patton: Gold</main>
+            <main maintype="list">Humorous Interpretation- Stefano A DeLima: Gold</main>
+            <main maintype="list">Humorous Interpretation- Luka Sandoval: (Gold)</main>
+            <main maintype="list">Original Informative- Raymond Zurich: Gold</main>
+            <main maintype="list">Original Informative- Masrur Mahbub: Gold</main>
+            <main maintype="list">Poetry Interpretation- Daniel Musashi: Gold</main>
+            <main maintype="list">Poetry Interpretation- Ji Seung Park: Gold</main>
+            <main maintype="list">Storytelling- Shogo Yanagi: Gold</main>
+            <main maintype="list">Storytelling- Sanjay Parakkel: Silver</main>
+            <main maintype="list">Original Persuasive- Min Soo Kim: Gold</main>
+            <main maintype="list">Original Persuasive- Min Sik Kim: Silver</main>
+            <main maintype="list">Extemporaneous- Wilson Zhang: Gold and All Star</main>
+            <main maintype="list">Extemporaneous- Tae Jun Seo: Bronze</main>
+            <main maintype="list">Multiples Reading: Cian Brett, Leon Inoue, David Mataitoga, Greg Tanaka, Saransh Mehta: Gold and All Star</main>
+        </subcontent>
+    </content>
+</cas>

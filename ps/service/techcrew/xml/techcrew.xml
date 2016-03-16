@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+  <title>Tech Crew</title>
+  <advisor>Bro. Michael</advisor>
+  <updated>8/5/2013</updated>
+  <content>
+    <headline>Activity Overview</headline>
+    <subcontent>
+      <main maintype="normal">If you are interested in helping out on the tech side at school events such as Fall Play or the Spring Musical, with lights, sounds, film, etc.</main>
+    </subcontent>
+  </content>
+</cas>

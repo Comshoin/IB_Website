@@ -1,0 +1,68 @@
+/** This file overwrites the style.css */
+.main {	
+    width: 649px; 
+    height: 100%; 
+    margin-top: 10px; 
+    margin-left: 201px; 
+    padding-right: 50px; 
+    padding-left: 50px; 
+    padding-bottom: 50px; 
+    position: relative; 
+    font-family: Georgia, "Times New Roman", Times, serif; 
+    font-size: 16px; 
+    line-height: 26px; 
+} 
+.main a {	
+    color: black; 
+} 
+.main h2 {	
+    font-family: Georgia, "Times New Roman", Times, serif; 
+    font-size: 36px; 
+    text-align: left; 
+    padding: 3px; 
+    padding-top: 20px; 
+    padding-left: 0px; 
+    color: black; 
+    border-bottom: 3px solid rgb(53,106,160); 
+    line-height: 49px; 
+    margin-bottom:10px; 
+} 
+
+.main h3 {	
+    font-size: 28px; 
+    text-align: left; 
+    margin: 20px 0px 0px 0px; 
+    padding: 0px 0px 0px 10px; 
+    border-bottom: 2px solid rgb(73,155,234); 
+    line-height: 39px; 
+    margin-bottom:10px; 
+} 
+
+/** Possible Styles for User */
+.main p {    
+    padding: 5px; 
+} 
+
+.main h4 {	
+    font-size: 24px; 
+    text-align: right; 
+    margin:25px 0px 0px 0px; 
+    padding: 0px 0px 0px 10px; 
+    border-bottom: 1px solid rgb(73,155,234); 
+    line-height: 39px; 
+    margin-bottom:10px; 
+} 
+
+.info {	
+    font-family: Georgia, "Times New Roman", Times, serif; 
+
+    text-align:right; 
+    font-size: 18px; 
+    padding: 0px 0px 0px 0px; 
+} 
+.corner {	
+    text-align:right; 
+} 
+.noindent {	
+    text-indent:inherit; 
+} 

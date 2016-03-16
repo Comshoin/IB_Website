@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+  <title>Intramurals</title>
+  <advisor>Mr. Ichikawa</advisor>
+  <updated>8/5/2013</updated>
+  <headline>Activity Overview</headline>
+  <subheadline>Practice Time</subheadline>
+  <content>
+    <headline>Activity Overview</headline>
+    <subcontent>
+      <subheadline>Practice Time</subheadline>
+      <main maintype="normal">Practice Tuesday, Thursday, and possibly Friday, from 3:30pm to 5:00pm in the Gym</main>
+    </subcontent>
+  </content>
+</cas>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Instrumental Music</title>
+    <advisor></advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>band1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>band2.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The instrumental music program at St. Mary’s is a challenging program for all students wishing to play a musical instrument. It consists of the concert bands and the jazz bands. The concert band program is offered from grades 6 through 12. The jazz band program is offered from grades 7 through 12. These instrumental courses are offered as classes, and students will receive academic credit for participation in one or more of these classes. The following classes are being offered as of the 2014-2015 school year:</main>
+<main maintype="list">Grade 6 Concert Band</main>
+<main maintype="list">Middle School Concert band (grades7 and 8)</main>
+<main maintype="list">High School Concert band (grades 9 through 12)</main>
+<main maintype="list">Middle School Jazz band (grades 6 through 8)</main>
+<main maintype="list">High School Jazz band (grades 9 through 12)</main>
+<main maintype="list">Music Theory (grades 9 through 12)</main>
+<main maintype="list">Digital Music (grades 7 and 8)</main>
+		   <main maintype="normal">The following list includes, but does not limit, the possible instruments in Concert band.</main>
+<main maintype="list">Brass: Trumpet, Trombone, Euphonium, Tuba, French Horn</main>
+<main maintype="list">Winds: Flute, Piccolo, Clarinet, Bass Clarinet, Alto Saxophone, Tenor Saxophone, Baritone Saxophone, Oboe, Bassoon</main>
+<main maintype="list">Percussion: Snare drum, Bass drum, Timpani, Mallets, Chimes, Auxiliary percussion</main>
+<main maintype="list">Strings: Violin, String bass</main>
+<main maintype="normal">Please consult with the band director if you wish to play an instrument in the concert band that is not on the above list.</main>
+<main maintype="normal">Any student can join the Concert band for his corresponding grade.  Students who are enrolled in a Concert Band also have the option to participate in Jazz Band. </main>
+        </subcontent>
+        <subcontent>
+          <subheadline>Interscholastic Activities</subheadline>
+          <subheadline>Kanto Plain Honour Band/Orchestra</subheadline>
+          <main maintype="normal">This is an auditioned group of musicians from the various international schools in the Kanto Plain Association of Secondary Schools (KPASS). Students must submit a recorded audition to his band director, who will send it to the adjudicators for judgment. The group performs once every year in March.</main>
+          <subheadline>Band Festivals</subheadline>
+          <main maintype="normal">There are two band festivals in the KPASS region: once in fall and once in spring. During each festival several schools participate, performing pieces in front of other schools. An adjudicator rates the performances of each group.</main>
+          <subheadline>Jazz Festival</subheadline>
+          <main maintype="normal">The Jazz Festival takes place once a year where the jazz bands from the KPASS schools participate. Each group performs for a set amount of time. The festival is adjudicated by professional musicians.</main>
+          <subheadline>Instrumental Solo and Ensemble Contest</subheadline>
+          <main maintype="normal">This festival is an opportunity where students could perform a solo piece in front of a professional adjudicator. Each participant is given 8 minutes to perform a solo and receive feedback from the adjudicator. However students wishing to perform a longer piece may take two slots, 16 minutes.</main>
+          <subheadline>Musical Orchestra</subheadline>
+          <main maintype="normal">St. Mary’s, along with Seisen International School and the International School of Sacred Heart, collaborates to perform a musical each year in the spring. The musical orchestra is an auditioned group of high school students. The actual instrumentation will vary according to the musical, but typically the orchestra consists of several violins, keyboards, percussion and some wind instruments. Additional details can be found on the Musical page under the Creativity section.</main>
+          </subcontent>
+    </content>
+</cas>

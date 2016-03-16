@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Soccer</title>
+    <advisor>JV Mr.Twohig V Mr. Van Den Bossche</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>2013_2014soccer1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014soccer2.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014soccer3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014soccer4.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>2013_2014soccer5.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+        <main maintype="normal">Soccer has been one of the most followed and played sports at St. Mary's for years.  In recent years, the team has had many memorable,enthralling matches against its main rival ASIJ.  The team also competes domestically against japanese teams such as Seiko Gakuin and Meiji Gakuen, along with teams from the German School and YIS.  The team typically plays about ten domestic matches every season, before traveling abroad to take part in an overseas tournament.  Recent venues for the overseas tournament have included Hawaii and Las Vegas.</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Practice 4days/week from 3:45pm to 6:00pm on the Field</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2014-2015 Season</headline>
+        <subcontent>
+           <subheadline> Season Summary</subheadline>
+           <main maintype="normal">The 2014-2015 varsity soccer team started the season in an extremely positive way, winning convincingly against both YIS and Seiko Gakuin.  Although the team then went on to suffer losses at the hands of ASIJ and DSTY, the vast majority of the performances put in by the team were positive, and improvement throughout the year was evident. The season culminated with a trip to Las Vegas. In Vegas, the team participated in the Mayor's Cup, but narrowly lost two games 2-3.  The team finished the tournament on a high note, winning its final match 8-1, but was unfortunately not able to progress to the finals of the tournament.</main>
+           </subcontent>
+           <subcontent>
+            <subheadline>Members</subheadline>
+            <main maintype="list">Yusuke Kobayashi (12)</main>
+            <main maintype="list">Andy Kim (12)</main>
+            <main maintype="list">Maurice O'Sullivan (12)</main>
+            <main maintype="list">Ken Gallego (12)</main>
+            <main maintype="list">Yuta Kobayashi (11)</main>
+            <main maintype="list">Liam Langan (11)</main>
+            <main maintype="list">Shinya Nagata (11)</main>
+            <main maintype="list">Harrison Dumesich (11)</main>
+            <main maintype="list">Ben Beardsley (11)</main>
+            <main maintype="list">Ryan Ward (11)</main>
+            <main maintype="list">Woo Sung Im (11)</main>
+            <main maintype="list">Raymond Cho (10)</main>
+            <main maintype="list">Suk Hwan Jeong (10)</main>
+            <main maintype="list">Jonas Knecht(10)</main>
+            <main maintype="list">Rintaro Nishimura (10)</main>
+            <main maintype="list">Riku Yokoyama (10)</main>
+            <main maintype="list">Shun Igarashi (10)</main>
+            </subcontent>
+            </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Season Summary</subheadline>
+            <main maintype="normal">The 2013-2014 St. Mary's Varsity soccer team started off the season with an invitational soccer tournament held in Hawaii and placing 2nd place. It's been 5 years since the last time the Titans Soccer team played in the finals for the invitational soccer tournament in Hawaii. Our season back in Tokyo was great; playing two games each against the British School, German School and the American School in Japan. Losing only one league game, the St. Mary's Titans finished off the season strong winning the Kanto Co-League Champs with the rival team ASIJ. Nevertheless, the season has not been officially terminated yet. The Kanto Plain Finals, once annulled due to a heavy snow, will take place on the 26th of February. The Titans Soccer team will reclaim the throne in this grand finale at American School in Japan, ASIJ.&amp;nbsp;</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Members</subheadline>
+            <main maintype="list">Kasper Takagi (12)</main>
+            <main maintype="list">Fabian Cabeza (12)</main>
+            <main maintype="list">Alex Kang (12)</main>
+            <main maintype="list">Shin Olsan (12)</main>
+            <main maintype="list">Reo Watanabe (12)</main>
+            <main maintype="list">Jeremy Woffinden (12)</main>
+            <main maintype="list">Jeremy Auvaro (12)</main>
+            <main maintype="list">Ryosuke Ogata (12)</main>
+            <main maintype="list">Sean Langan (12)</main>
+            <main maintype="list">Yusuke Kobayashi (11)</main>
+            <main maintype="list">Maurice O'Sullivan (11)</main>
+            <main maintype="list">Shinya Nagata (10)</main>
+            <main maintype="list">Yuta Kobayashi (10)</main>
+            <main maintype="list">Liam Langan (10)</main>
+            <main maintype="list">Avi Schafer (10)</main>
+        </subcontent>
+    </content>
+</cas>

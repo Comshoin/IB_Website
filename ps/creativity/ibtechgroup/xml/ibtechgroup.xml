@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>IB Tech Group</title>
+    <advisor>Mr. Cris Copping</advisor>
+    <updated>10/06/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>ibtech.jpg</image>
+            <caption>The Members of the IB Tech Group</caption>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The IB Tech Group is a student-oriented group that is assigned to maintain this IB website (ib.smis.ac.jp). This is an ongoing project which aims at providing up-to-date information about the IB at St. Mary’s to students, teachers and parents. But more than being simply informational, it is designed to be usable, so that students can plan their course selections or decide which CAS activities to be involved in; teachers can obtain necessary materials such as IB internal assessment forms and cover sheets; parents can keep track of events and courses; and prospective families can check out our IB Programme. 
+                </main>
+            <main maintype="normal">The IB Tech Group began when Mr. Copping recruited interested, tech-savvy student Kent Shikama in 2012 to take over the initial work begun by Ichiro Takami in the area of a CAS portal.  James Parker and Young Chul Yoon soon joined, and by 2013 a viable IB-dedicated site was born. All of these students have since graduated. As of August 2014, the group is led by Ben Beardsley, while Yuhki Komano heads the all-important CAS section. Also part of the group are Aaron and Ryan Shappell, and Dylan Thinnes, all of whom have a high affinity for technology. 
+</main>
+            <main maintype="normal">There are regular updates to this site, and we welcome contributions, such as photos or video-links, that would be appropriate for any of our pages. If you’d like to make such a contribution, please see any of the current group members or Mr. Copping.</main>
+        </subcontent>
+    </content>
+</cas>

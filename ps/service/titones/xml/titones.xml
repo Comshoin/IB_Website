@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Titones</title>
+    <advisor>Mrs. Stenson</advisor>
+    <updated>10/10/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>titones unmodified.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">Titones is a student-initiated a cappella group at St.Mary's. The objective of the group is not only to perform at various school events, but also to console the weary hearts of 3.11 Earthquake victims through music. It was founded in 2012, and the group currently consists of 8 seniors: Jae Yoon Jung (President), Tim Liao (Arranger), Nate Klein, Hyung Joon Jun, Kazuya Ogino, Alex Kang, and Jin Ho Ryu. Titones is active throughout the year, and because of its nature as a student-oriented group, there is no formal teacher involvement and is very flexible with scheduling. So far, the group has traveled to Tohoku region twice, and both of the trips were self-organized. This year, instead of traveling directly to Tohoku region, the group will perform at a charity concert to donate the profits for those in needs.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Activities</headline>
+        <subcontent>
+            <subheadline>Planned Activities</subheadline>
+            <main maintype="list">2013. 12: Will perform at Charity Concert</main>
+            <main maintype="list">2014. 02: Will participate in the Guam Pacific Music Festival&amp;nbsp;</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Past Activities</subheadline>
+            <main maintype="list">2011. 11: Performed at 2013 Vocal Solo and Ensemble Festival</main>
+            <main maintype="list">2012. 12: Fundraising Performance to defray the cost of the trip</main>
+            <main maintype="list">2012. 12: Trip to Sendai Region</main>
+            <main maintype="list">2013. 02: Performed at 2013 ISCA Dinner Show</main>
+            <main maintype="list">2013. 05: Performed at 2013 St. Mary's Carnival&amp;nbsp;</main>
+            <main maintype="list">2013. 06: Trip to Fukushima Region</main>
+        </subcontent>
+    </content>
+</cas>

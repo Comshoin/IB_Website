@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<title id="title">General</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="/css/master.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/maindivstyle.css">
+<link rel="stylesheet" href="/css/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resource/default.css" type="text/css" media="screen" />
+<script type="text/javascript" src="/javascript/jquery.js"></script>
+<script type="text/javascript" src="/javascript/menu.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div class="title">
+  <div class="logo"><a href="http://www.smis.ac.jp/"><img src="/images/logo.jpg" alt="St. Mary's International School" border="0"></a></div>
+  <div class="banner"><img src="/images/diploma.png" alt="St. Mary's International School" border="0"></div>
+</div>
+<nav class="top-navigation">
+  <ul>
+    <li class="top-item" id="">
+      <h4><a href="/diploma/diploma.html">Full Diploma</a></h4>
+    </li>
+    <li class="top-item" id="highlighted-item">
+      <h4><a href="/ps/information.html">CAS (Diploma)</a></h4>
+    </li>
+    <li class="top-item" id="">
+      <h4><a href="/faculty/faculty.html">Faculty</a></h4>
+    </li>
+    <li class="top-item" id="">
+      <h4><a href="/course/course.html">Non-Full Diploma</a></h4>
+    </li>
+    <li class="top-item" id="">
+      <h4><a href="/general/diploma.html">General</a></h4>
+    </li>
+  </ul>
+</nav>
+<div class="outline">
+<!-- Adapted from "Design Shack." Code a Useful Expanding Vertical Navigation Menu. -->
+<div class="outline"> 
+  <!-- Adapted from "Design Shack." Code a Useful Expanding Vertical Navigation Menu. -->
+  <nav class="side">
+    <ul>
+      <li class="menu-item" id="part-description" >
+        <h4> <a href="/ps/information.html">General Info</a> </h4>
+        <p>The following links will lead to all CAS related pages.</p>
+      </li>
+      <li class="menu-item" id="forms">
+        <h4> <a href="/ps/forms.html">CAS Forms</a> </h4>
+      </li>
+      <li class="menu-item" id="creativity">
+        <h4>Creativity</h4>
+        <ul class="sub-item">
+          <li> <a href="/ps/creativity/biologyclub/xml/biologyclub.xml">Biology Club</a> </li>
+          <li> <a href="/ps/creativity/journalism/xml/journalism.xml">Journalism</a> </li>
+          <li> <a href="/ps/creativity/yearbook/xml/yearbook.xml">Yearbook</a> </li>
+          <li> <a href="/ps/creativity/speech/xml/speech.xml">Speech</a> </li>
+          <li> <a href="/ps/creativity/debate/xml/debate.xml">Debate</a> </li>
+          <li> <a href="/ps/creativity/choir/xml/choir.xml">Choir</a> </li>
+          <li> <a href="/ps/creativity/mindsi/xml/mindsi.xml">Mind's I</a> </li>
+          <li> <a href="/ps/creativity/brainbowl/xml/brainbowl.xml">Brain Bowl</a> </li>
+          <li> <a href="/ps/creativity/multimediadesign/xml/multimediadesign.xml">Multimedia Design</a> </li>
+          <li> <a href="/ps/creativity/fallplay/xml/fallplay.xml">Fall Play</a> </li>
+          <li> <a href="/ps/creativity/musical/xml/musical.xml">Musical</a> </li>
+          <li> <a href="/ps/creativity/mathfieldday/xml/mathfieldday.xml">Math Field Day</a> </li>
+          <li> <a href="/ps/creativity/oneactplay/xml/oneactplay.xml">One Act Play</a> </li>
+          <li> <a href="/ps/creativity/instrumentalmusic/xml/instrumentalmusic.xml">Instrumental Music</a> </li>
+          <li> <a href="/ps/creativity/filmfestival/xml/filmfestival.xml">Film Festival</a> </li>
+          <li> <a href="/ps/creativity/ibtechgroup/xml/ibtechgroup.xml">IB Tech Group</a> </li>
+        </ul>
+      </li>
+      <li class="menu-item" id="action">
+        <h4>Action</h4>
+        <ul class="sub-item">
+          <li>
+            <p>Fall Season</p>
+          </li>
+          <li> <a href="/ps/action/crosscountry/xml/crosscountry.xml">HS Cross Country</a> </li>
+          <li> <a href="/ps/action/tennis/xml/tennis.xml">JV/Varsity Tennis</a> </li>
+          <li> <a href="/ps/action/intramurals/xml/intramurals.xml">Intramurals</a> </li>
+          <li> <a href="/ps/action/weighttraining/xml/weighttraining.xml">Weight Training</a> </li>
+          <li>
+            <p>Winter Season</p>
+          </li>
+          <li> <a href="/ps/action/basketball/xml/basketball.xml">JV/Varsity Basketball</a> </li>
+          <li> <a href="/ps/action/soccer/xml/soccer.xml">JV/Varsity Soccer</a> </li>
+          <li> <a href="/ps/action/wrestling/xml/wrestling.xml">Wrestling</a> </li>
+          <li>
+            <p>Spring Season</p>
+          </li>
+          <li> <a href="/ps/action/baseball/xml/baseball.xml">JV/Varsity Baseball</a> </li>
+          <li> <a href="/ps/action/trackandfield/xml/trackandfield.xml">HS Track and Field</a> </li>
+          <li> <a href="/ps/action/weighttraining/xml/weighttraining.xml">Weight Training</a> </li>
+          <li>
+            <p>Year Round</p>
+          </li>
+          <li> <a href="/ps/action/swimming/xml/swimming.xml">Swimming</a> </li>
+        </ul>
+      </li>
+      <li class="menu-item" id="service">
+        <h4>Service</h4>
+        <ul class="sub-item">
+          <li> <a href="/ps/service/aliceclub/xml/aliceclub.xml">Alice Club</a> </li>
+          <li> <a href="/ps/service/studentcouncil/xml/studentcouncil.xml">Student Council</a> </li>
+          <li> <a href="/ps/service/rootsandshoots/xml/rootsandshoots.xml">Roots and Shoots</a> </li>
+          <li> <a href="/ps/service/boosters/xml/boosters.xml">Boosters</a> </li>
+          <li> <a href="/ps/service/leoclub/xml/leoclub.xml">Leo Club</a> </li>
+          <li> <a href="/ps/service/yutenjicookingproject/xml/yutenjicookingproject.xml">Yutenji Cooking Project</a> </li>
+          <li> <a href="/ps/service/habitatforhumanity/xml/habitatforhumanity.xml">Habitat for Humanity</a> </li>
+          <li> <a href="/ps/service/peertutoring/xml/peertutoring.xml">Peer Tutoring</a> </li>
+          <li> <a href="/ps/service/amnestyinternational/xml/amnestyinternational.xml">Amnesty International</a> </li>
+          <li> <a href="/ps/service/greenclub/xml/greenclub.xml">Green Club</a> </li>
+          <li> <a href="/ps/service/operationsmile/xml/operationsmile.xml">Operation Smile</a> </li>
+          <li> <a href="/ps/service/handsontokyo/xml/handsontokyo.xml">Hands on Tokyo</a> </li>
+          <li> <a href="/ps/service/tassel/xml/tassel.xml">Tassel</a> </li>
+          <li> <a href="/ps/service/titones/xml/titones.xml">Titones</a> </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <!-- End class side --><!-- TemplateBeginEditable name="EditRegion2" -->
+  <div class="main" id="main"> </div>
+  <!-- TemplateEndEditable --><!-- End class main --> 
+</div>
+<div class="footer">
+  <p>St. Mary's International School IB Website - 2015 &nbsp;</p>
+</div>
+<script type="text/javascript" src="/javascript/jquery-1.9.0.min.js"></script> 
+<script type="text/javascript" src="/javascript/jquery.nivo.slider.js"></script> 
+<script type="text/javascript">
+		$(window).load(function() {
+			$('#slider').nivoSlider();
+		});
+	</script>
+</body>
+</html>

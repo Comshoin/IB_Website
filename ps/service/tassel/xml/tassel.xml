@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Tassel</title>
+    <advisor>Mrs. Fradale</advisor>
+    <updated>11/25/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>tassel1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>tassel.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="list">&lt;strong&gt;What is TASSEL?&lt;/strong&gt;</main>
+            <main maintype="normal">TASSEL stands for Teaching and Sharing Skills to Enrich Lives. Organized by Mr. Joji Tatsugi, alumnus of St.Mary's, TASSEL's goal is to teach underprivileged children English via teleconference. St.Mary's students volunteer to teach 40 minute classes once or twice a week with the help of a Cambodian teacher who will be with the children in the classroom.</main>
+           <main maintype="list">&lt;strong&gt;What do you do during a lesson?&lt;/strong&gt;</main>        
+           <main maintype="normal">During each class, you teach a letter of the alphabet along with a local Cambodian teacher who translates for you and helps with the children. For each letter, you do things such as explaining all the different sound and rules, read words and sentences, and play some games to exercise their skills. It can be a lot of fun!</main>
+               <main maintype="list">&lt;strong&gt;How much time is invovled and what do I need to join?&amp;nbsp;&lt;/strong&gt;</main>
+            <main maintype="normal">Each class is 40 minutes long, once a week, but extra time will be required to prepare for lessons and input info in the TASSEL log so your fellow teacher are well informed on what you have completed. You will also need to get familiar with a free program called Vsee, a conference calling software similar to skype. Just a tip when teaching, you need to be very clear in your pronunciation and be positive and fun! Overall TASSEL is a very unique and fun experience that is very meaningful to the children of Cambodia and can change their very lives.</main>
+            <main maintype="normal">You’ll need to get comfortable with a fee application called Vsee, and you need clear pronunciation, a quick smile and the desire to make a positive difference.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+    <content>
+        <subcontent>
+            <subheadline>Winter Season</subheadline>
+            <main maintype="normal">We have nine volunteer teachers at the moment. Ekamjot, Paul, Do Kyoung, Jack, Jeremy, Chance, Nikhil, Mr.Copping, and Mrs.Fradale. According to Mr. Tatsugi the waiting list of students in Cambodia is over 300 students so we need more volunteer teachers! If you have questions; please ask any of the current volunteers for their impressions and further information.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

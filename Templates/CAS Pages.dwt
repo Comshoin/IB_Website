@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Diploma</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="/css/master.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/maindivstyle.css">
+<script type="text/javascript" src="/javascript/jquery.js"></script>
+<script type="text/javascript" src="/javascript/menu.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div class="title">
+		<div class="logo"><a href="http://www.smis.ac.jp/"><img src="/images/logo.jpg" alt="St. Mary's International School" border="0"></a></div>
+		<div class="banner"><img src="/images/diploma.png" alt="St. Mary's International School" border="0"></div>
+</div>
+<nav class="top-navigation">
+		<ul>
+				<li class="top-item" id="highlighted-item">
+						<h4><a href="/diploma/diploma.html">Full Diploma</a></h4>
+				</li>
+				<li class="top-item" id="">
+						<h4><a href="/ps/information.html">CAS (Diploma)</a></h4>
+				</li>
+				<li class="top-item" id="">
+						<h4><a href="/faculty/faculty.html">Faculty</a></h4>
+				</li>
+				<li class="top-item" id="">
+						<h4><a href="/course/course.html">Non-Full Diploma</a></h4>
+				</li>
+                <li class="top-item" id="">
+						<h4><a href="/general/diploma.html">General</a></h4>
+				</li>
+		</ul>
+</nav>
+<div class="outline"> 
+		<!-- Adapted from "Design Shack." Code a Useful Expanding Vertical Navigation Menu. -->
+		<nav class="side">
+				<ul>
+						<li class="menu-item" id="part-description" >
+								<h4><a href="/diploma/diploma.html">Home</a></h4>
+								<p>Welcome to the Diploma Section.</p>
+						</li>
+						<li class="menu-item">
+								<h4><a href="/diploma/asasmis.html">Available Subjects</a></h4>
+						</li>
+						<li class="menu-item">
+								<h4><a href="/diploma/ptyIBd.html">Choosing IB Courses</a></h4>
+						</li>
+						<li class="menu-item">
+								<h4><a href="/diploma/faq.html">FAQs</a></h4>
+						</li>
+				</ul>
+				<br />
+				<ul>
+						<li class="menu-item">
+								<h4><a href="/diploma/tok.html">TOK</a></h4>
+						</li>
+						<li class="menu-item">
+								<h4><a href="/diploma/ee.html">Extended Essay</a></h4>
+						</li>
+				</ul>
+		</nav>
+		<!-- End class side --> 
+		<!-- TemplateBeginEditable name="Main Area" -->
+		<div class="main">
+				<h2>Diploma</h2>
+				<h3>Example H3 Header</h3>
+				<div class="content">
+						<p>Example text inside paragraph tags</p>
+				</div>
+		</div>
+		<!-- TemplateEndEditable --><!-- End class main --> 
+</div>
+<div class="footer">
+		<p>St. Mary's International School IB Website - 2015 &nbsp;</p>
+</div>
+</body>
+</html>

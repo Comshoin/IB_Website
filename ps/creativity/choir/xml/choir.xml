@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Choir</title>
+    <advisor>Mr. Stenson</advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>choir3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>choir4.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>choir5.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">The Choral program at St. Mary’s International School is a rigorous program aimed at developing young men into talented vocalists. There are two elective groups and two auditioned groups at the high school level. Any student can join the two elective groups, but there are audition processes in order to join the two other groups. The elective groups are Men's Choir and Bell Choir, and the auditioned groups are the International Show Choir and the Varsity Ensemble. The two non-auditioned groups meet every day for 42 minutes during the school hours. The auditioned groups operate outside of school hours, and students must be willing to make the extra commitment to come to practice before school, breaks, and after schools. Select groups sometimes travel to participate in overseas competitions. Overall, the St. Mary’s Choral program provides many valuable opportunities for students to express and nurture their passion in singing.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Active Groups and Ensembles</headline>
+        <subcontent>
+        <subheadline>Open Groups</subheadline>
+            <main maintype="normal">There are two ensembles open to any high school student in St. Mary’s. They are the Men's Choir and the Bell Choir.  The Men’s Choir is a non-auditioned elective class, open to grades 9-12. This class meets daily. Bell Choir is a non-auditioned elective class, open to grades 9-12. This class meets daily.</main>
+       <subheadline>Auditioned Groups</subheadline>
+<main maintype="normal">There are two auditioned ensembles that are open to those who possess a certain level of competence:</main>
+<main maintype="normal">The Varsity Ensemble is a 24-voiced auditioned male ensemble. Students must be a member of the Men's Choir as an audition prerequisite. This ensemble rehearses during period zero* or the second nutrition break. This year, the group was selected to perform at the National ACDA (American Choral Directors Association) Convention in Salt Lake City, Utah.
+The International Show Choir is a mixed group that includes students in grades 9-12 from Seisen International School and International School of the Sacred Heart as well as from St. Mary's. They rehearse twice weekly from 5:45 - 7:30 PM. Students must pass a competitive audition in order to join this group.
+</main>
+        </subcontent>
+        <subcontent>
+        <subheadline>Choral Events This Year</subheadline>
+        <main maintype="list">Vocal Solo and Ensemble Festival</main>
+            <main maintype="list">Refugees International Charity Concert at Suntory Hall (Varsity Ensemble and Bell Choir)</main>
+            <main maintype="list">Choral Annual Christmas Concert</main>
+            <main maintype="list">Annual ISCA Dinner Show</main>
+            <main maintype="list">ACDA Convention (Varsity Ensemble)</main>
+            <main maintype="list">KPASSP Honor Choir Concert</main>
+            <main maintype="list">San Diego Heritage Festival (Spring Break)</main>
+            <main maintype="list">Annual Choral Spring Concert</main>
+    </subcontent>
+    </content>
+</cas>

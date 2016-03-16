@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Baseball</title>
+    <advisor>JV Mr. Molina V Mr.Vanderpool</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+         <imagegroup>
+            <image>baseball2.jpg</image>
+            <caption></caption>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Daily practice from 3:30pm to 5:00pm on the Field for Varsity. Practice 4 days/week from 7:00am to 8:00am and possibly 3:30pm to 5:00pm on the Field for JV</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>2013~2014 Schedule</subheadline>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Pre-Season Statement</subheadline>
+            <main maintype="normal">The season looks extremely bright for the 2014 baseball team. We have a lot of potentil to pull off a Far East title with 13 returning Varsity members. We are also motivated after experiencing a huge loss in the finals last year and we hope this force really drives us a long way. Returning as our coach is Mr. Molina, who has put in many yers in this program and is a very seasoned coach. He will definitely play a huge role in tying the team together and to bring out our potential to a successful season.&amp;nbsp;</main>
+            <main maintype="normal">Even though we have 13 returning members, however, we are still in need of new recruits. Tryouts for freshman/sophomore are going to be held on the field on Wednesday and tryouts for juniors/seniors are going to be held on Thursday. You will never know your capabilities until you try, so come out and give it a shot.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

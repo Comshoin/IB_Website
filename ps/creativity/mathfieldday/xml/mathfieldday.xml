@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Math Field Day</title>
+    <advisor>Mr. Donea</advisor>
+    <updated>6/22/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>mathfieldday1.jpg</image>
+            <caption>Mathematics </caption>
+        </imagegroup>
+        <imagegroup>
+            <image>mathfieldday2.jpg</image>
+            <caption>Mathematics Field Day</caption>
+        </imagegroup>
+         <imagegroup>
+            <image>mathfieldday3.jpg</image>
+            <caption>Mathematics </caption>
+        </imagegroup>
+        <imagegroup>
+            <image>mathfieldday4.jpg</image>
+            <caption>Mathematics Field Day</caption>
+        </imagegroup>
+        <imagegroup>
+            <image>mathfieldday5.jpg</image>
+            <caption>Mathematics Field Day</caption>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">Math Field Day is an activity where students hone their mathematical ability in order to compete with students from schools all around the Kanto in a series of mathematics examinations and activities. This activity is a must for any student that has a desire to improve various problem solving skills, a tool useful in any career path. Math Field Day is separated into catagories which are Rapid Computation, Grade 7/8. Grade 9/10, Grade 11/12, and Calculus. Practices are usually from January to April, and the tournament is in April.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Pre-Season Statement</subheadline>
+            <main maintype="normal">Math Field Day is an activity that allows students to demonstrate their knowledge and ability in mathematics by competing against students from schools around Kanto Practices, during which members usually solve and discuss questions from past exams, last from around January to April, and the actual tournament is in mid-April. There are two contests in Math Field Day: an individual competition and a group competition. The individual competition, held during the morning, is divided into several categories, namely Rapid Computation (Middle School), Grade 7/8, Grade 9/10, Grade 11/12, and Calculus (seniors). The group competition, held after lunch, is designed so that members can socialize with students from other schools. Teams consist of 5-6 students from various schools and in the same age group (Junior teams are from grades 7~9 and the Senior teams are from grades 10~12. St.Mary's tends to do very well in both the individual and the group competitions, with usually at least one or two SMIS student among the top 5 places in each category.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

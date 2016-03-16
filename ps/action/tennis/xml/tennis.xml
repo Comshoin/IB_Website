@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Tennis</title>
+    <advisor>Mr.Molina</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>image001.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>image003.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>image005.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>IMG_1330-1.JPG</image>
+        </imagegroup>
+        <imagegroup>
+            <image>IMG_1354.JPG</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Daily practice from 3:30pm to 5:00pm and possibly 7:00am to 8:00am on the Tennis Court</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Season Summary</subheadline>
+            <main maintype="normal">Varsity tennis 2013 was the third year in a row where we became second in almost every competition: league, kanto, and far east. We got a new coach, Mr.Molina, along with two new players: one sophomore and one junior. Practices routines were a little different from previous years: we did band and ladder exercises before every practice and played against each other on Saturdays during our ladder matches. Although three seniors will be leaving this year, next year's team will beat ASIJ to take back the championship.&amp;nbsp;</main>
+            <main maintype="normal">Practices were held daily from 7:00~8:00am on Tuesdays and Thursdays and from 15:35~17:30 on Mondays, Wednesdays, and Fridays.&amp;nbsp;</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Members (Awards)</subheadline>
+            <main maintype="list">Lane Woody (MIP)</main>
+            <main maintype="list">Albert Tamura</main>
+            <main maintype="list">Harry He</main>
+            <main maintype="list">Hiroshi Horikawa</main>
+            <main maintype="list">Leon Koegel</main>
+            <main maintype="list">Juan Borja (Coaches Award/All Star)</main>
+            <main maintype="list">Kent Shikama (MVP/All Star)</main>
+            <main maintype="list">Jeremy Auvaro (Most Dedicated/All Star)</main>
+            <main maintype="list">Mackenzie Lee (All Star)&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

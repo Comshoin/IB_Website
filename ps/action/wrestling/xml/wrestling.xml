@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Wrestling</title>
+    <advisor>Mr. Yabui</advisor>
+    <updated>8/5/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>wrestling1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>wrestling.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>wrestling2.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>wrestling4.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>wrestling3.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>wrestling5.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+        <main maintype="normal">The wrestling program at St. Mary’s has a rich history beginning in 1969. Currently, there are elementary, middle school, and high school programs. The high school wrestling team has been highly successful in its competition in the Far East and Kanto Plain since its establishment. The wrestling program receives active support from the parents and wrestling alumni, and the team also has many connections with the Japanese schools, local club teams, and university wrestling teams. During season, the wrestling team competes in dual meets against the Kanto Plain schools for a Kanto League title, the Kanto Plain Wrestling championship, the Beast of the East Tournament, the Far East Wrestling tournament, and some more league and non-league tournaments. On top of tournaments, the program has season opening events, a luxurious award banquet at the end of season, yakiniku parties, fun events for parents, alumni, and the team, and many more.</main>
+          <main maintype="normal">Practices are extremely hard and almost every day but it is highly rewarding at the end of season. Wrestling is a sport that gives every youth a chance to shine and build many important life skills. It is a sport that has changed so many people’s lives. There are no tryouts or cuts, therefore anyone can join the team. Whether you are bad at sports, big or small, there’s always a place in wrestling because of weight classes and its fair nature of the sport. The St. Mary’s wrestling program is proud to say that it has one of the best training facility, equipment, and entourage in the league.</main>
+        </subcontent>
+        <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Regular practice times are 3:40 – 5:40 on weekdays.  Some practices are held on Saturday mornings.</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Team website</headline>
+        <subcontent>
+            <subheadline>Other Resources</subheadline>
+            <main maintype="normal">Please visit the following site to view the team website. Practice schedule, rosters, and other useful sources are presented.&amp;nbsp;</main>
+            <main maintype="normal">&lt;a href=&quot;https://sites.google.com/a/smistitans.org/wrestling/home&quot;&gt; SMIS wrestling site link &lt;/a&gt;</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>Members</headline>
+        <subcontent>
+            <subheadline>High School Wrestlers</subheadline>
+            <main maintype="list">Leon Araya (9)</main>
+            <main maintype="list">Joon Seo Bae (10)</main>
+            <main maintype="list">Jongwon Cho (9)</main>
+            <main maintype="list">Jonathan Goff(9)</main>
+            <main maintype="list">Nilay Hingarh (9)</main>
+            <main maintype="list">Kazuho Kawashima (11)</main>
+            <main maintype="list">Mitchell Krcelic (10)</main>
+            <main maintype="list">Chang Young Lee (10)</main>
+            <main maintype="list">Ryo Lemkuil (9)</main>
+            <main maintype="list">Tatsuhito Matsumoto (9)</main>
+            <main maintype="list">Dai Matsumoto (9)</main>
+            <main maintype="list">Saran Mitsuhashi (11)</main>
+            <main maintype="list">Alberto Orsara (12)&amp;nbsp;</main>
+            <main maintype="list">Riku Osawa (12)&amp;nbsp;</main>
+            <main maintype="list">Ryo Osawa (10)</main>
+            <main maintype="list">Aditya Pundir(11)&amp;nbsp;</main>
+            <main maintype="list">Ryo Sawa (9)</main>
+            <main maintype="list">Jihoon Seo (9)</main>
+            <main maintype="list">Itsuki Shibahara (11)&amp;nbsp;</main>
+            <main maintype="list">Lucas Shiraki (12)</main>
+            <main maintype="list">Eshan Singhi (10)</main>
+            <main maintype="list">Riku Tabata (11)</main>
+            <main maintype="list">Kazuki Takami (9)</main>
+            <main maintype="list">Tatsuo Tanaka (9)</main>
+            <main maintype="list">Ryan Vasconcellos (11)</main>
+        </subcontent>
+    </content>
+    <content>
+        <headline>2013~2014 Season</headline>
+        <subcontent>
+            <subheadline>Season Summary</subheadline>
+            <main maintype="normal">Placing Take back the Championship as the sole motto, the Titans wrestling team has successfully taken back two of the three titles: Kanto League Champions and Far East D-1 Individual Championship , while the Kanto Finals Tournament was cancelled due to an untimely snow. Missing the heavy weight class (275lb), the team had a very slim chance of accomplishing the mission since an open weight class means five points loss for the duals and maximum of about twelve points for the individual tournaments, which in both case are detrimental. Nevertheless, the team overcame this apparent con by increasing the quantity and the quality of practices, inviting local Japanese school wrestling team from Jiyuugaoka, Chiba, and Yokohama. Fortunately, the hard work paid off when we won duals against the season's archenemy Nile C Kinnick high school with three weight classes missing, a truly historical moment in the history of Titans wrestling team. So, overall, the season was a very successful one with great individual and team accomplishments. It can be surmised this season marks the beginning of future winning streaks as the team is still very young and have considerable room for improvement.&amp;nbsp;</main>
+        </subcontent>
+    </content>
+</cas>

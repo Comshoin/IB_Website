@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Brain Bowl</title>
+    <advisor>Ms. Copping</advisor>
+    <updated>7/16/2013</updated>
+    <imagelist>
+        <imagegroup>
+            <image>brainbowl1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>brainbowl2.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+            <main maintype="normal">Students participating in Brainbowl compete to answer trivia questions. Teams of students representing St. Mary's compete against other teams from many schools in order to win the annual Brainbowl championship. Learning how to think quickly, be more confident, and become repositories of useful information would be among the many reasons why students take part in Brainbowl. St. Mary's has done very well in the past, winning more than three quarters of all past tournaments. Tryouts are usually held in May of the previous year and September of that year, and the tournament is in October.</main>
+        </subcontent>
+    </content>
+    <content>
+    <headline>2014~2015 Season</headline>
+    <subcontent>
+    	<subheadline>Season Summary</subheadline>
+    	<main maintype="normal">This year, the Brainbowl team was able to continue its dominant streak, winning an eighth successive title. This year, the team faced some of the stiffest competition in years, particularly from a strong St. Maur side that pushed St. Mary's right to the finish. However, a strong burst on the buzzer in the second half of the tournament brought the Titans home safe and dry.</main>
+    	<main maintype="normal">Throughout the years, our Brainbowlers have always ensured that their names appear on the list of all stars. This year was no exception, as Ben Beardsley and Shubhankar Peshin scored 250 and 200 points respectively, and earned individual podium finishes. One of the members of the team noted that the trophy was brought home not only by the Brainbowlers' great hosts of knowledge, but also by the mental toughness and unity displayed by the entire team. Veteran members of this year's Brainbowl team tend to agree that this year's win was one of the most hard fought of St. Marys's recent Brainbowl victories. However, team pep talks by captains Stephan Nitu and Shubhankar Peshin helped calm the nerves of the anxious team members, and undoubtedly caused the team to have a mental edge going into the final round. It is widely agreed that whilst some team members were unfortunately unable to answer many questions, the attitude and spirit of each and every team member was invaluable.</main>
+    	<main maintype="normal">The Brainbowl team's coach, Ms. Copping, takes pride in the fact that, every year, the team consists of students from a variety of different grades. This year, there were six seniors, two juniors, three sophomores, and one freshman on the team. Not only did this allow the team as an entity to have a broader range of knowledge, it also ensured that the team consisted of a variety of individuals, each with a different way of thinking about and responding to the questions posed. Whilst some teams preferred to send more homogenous teams, the consensus is that the diversity of the St. Mary's team was yet another factor that led to its eventual victory.</main>
+    	<main maintype="normal">Brainbowl has become a time-honored tradition at St. Mary's, and in recent years, the teams' victories have often served as something for the school to fall back on in the wake of shortcomings in other activities. Each and every member of the team was both delighted and relieved when the trophy was, once again, won this year. The Brainbowl team will continue to serve as a source of motivation and inspiration for future generations in the realm of ever-increasing competitiveness of modern-day fine arts.</main>
+            </subcontent>
+        <subcontent>
+            <subheadline>Members</subheadline>
+            <main maintype="list">Aditiya Somasundaram</main>
+            <main maintype="list">Benjamin Beardsley</main>
+            <main maintype="list">Cian Brett</main>
+            <main maintype="list">Tumul Kumar</main>
+            <main maintype="list">Shogo Yanagi</main>
+            <main maintype="list">Nishant Chanda</main>
+            <main maintype="list">Timothy Chon</main>
+            <main maintype="list">Masrur Mahbub</main>
+            <main maintype="list">Sebastian Eguiarte</main>
+            <main maintype="list">Kyohyun Koo</main>
+            <main maintype="list">Alex Behr</main>
+            <main maintype="list">Kenyo Li</main>
+            <main maintype="list">Taekyun Lee</main>
+                    </subcontent>
+    </content>
+</cas>

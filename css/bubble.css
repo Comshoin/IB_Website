@@ -1,0 +1,79 @@
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: #237AA6;
+    background-repeat:no-repeat;
+    background: -ms-linear-gradient(top, #44B1E0 0%, #393FEF 100%) fixed;
+    background: -moz-linear-gradient(top, #44B1E0 0%, #393FEF 100%) fixed;
+    background: -o-linear-gradient(top, #44B1E0 0%, #393FEF 100%) fixed;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #237AA6), color-stop(1, #24119E)) fixed;
+    background: -webkit-linear-gradient(top, #44B1E0 0%, #393FEF 100%) fixed;
+    background: linear-gradient(to bottom, #45BACC 0%, #18039E 100%) fixed;
+}
+#bubble_background {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 1206px;
+    height: 844px;
+    margin-left: -603px;
+    margin-top: -422px;
+    background-image: url(../bubble/background_bubble.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+#faculty_bubble {
+    width: 217px;
+    height: 217px;
+    left: 185px;
+    top: 443px;
+}
+#diploma_bubble {
+    width: 277px;
+    height: 277px;
+    left: 185px;
+    top: 97px;
+}
+#cas_bubble {	
+    width: 269px;
+    height: 269px;
+    left: 700px;
+    top: 87px;
+}
+#general_bubble {
+    width: 305px;
+    height: 305px;
+    left: 432px;
+    top: 274px
+}
+#course_bubble {
+    width: 235px;
+    height: 235px;
+    left: 802px;
+    top: 377px;
+}
+#ib_logo {
+    position: absolute;
+    width: 141px;
+    height: 141px;
+    left: 686px;
+    top: 629px;
+}
+#bubble_background > div {
+    position: absolute;	
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+    -webkit-transition-property:-webkit-transform;
+    -moz-transition-property:-moz-transform;
+    -o-transition-property:-o-transform;
+    transition-property: transform;
+}
+#bubble_background > div:hover {
+    transform: rotate(60deg);	
+    -webkit-transform: rotate(60deg);	
+    -moz-transform: rotate(60deg);	
+    -o-transform: rotate(60deg);	
+    -ms-transform: rotate(60deg);
+}

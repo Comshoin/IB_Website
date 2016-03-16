@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="../../../cas.xsl" ?>
+<cas>
+    <title>Track and Field</title>
+    <advisor>Sprinting: Mr. Ichikawa Distance: Mr. Washio Jumping: Mr.Vogt Throwing: Mr. Dogra</advisor>
+    <updated>11/11/2014</updated>
+    <imagelist>
+        <imagegroup>
+            <image>Track1.jpg</image>
+        </imagegroup>
+        <imagegroup>
+            <image>Track2.jpg</image>
+        </imagegroup>
+    </imagelist>
+    <content>
+        <headline>Activity Overview</headline>
+        <subcontent>
+        <main maintype="normal">Track and Field is a spring sport at St. Mary's International School where one can participate in track events, field events, or a combination of both. This can range in sprinting, distance, jumping, and throwing events, allowing any type of person to be able to join. If you don’t want to run, you don’t have to; try a field event! For all meets we travel by bus as a team. Each meet is hosted at military bases, such as Yokota, or at a public track, such as Yumenoshima Track. After the main meets, there is the possibility of going to Far East Championships. This is the only competition within Track and Field in which participation is limited. Only the top ten athletes get to compete. Even so, there are no tryouts for Track and Field; anyone is welcome to join.</main>
+        </subcontent>
+        
+        <subcontent>
+        <subheadline>Events</subheadline>
+        <main maintype="normal">Students may compete in any of the following events</main>
+        <main maintype="list">100 Metres</main>
+            <main maintype="list">200 Metres</main>
+            <main maintype="list">400 Metres</main>
+            <main maintype="list">800 Metres</main>
+            <main maintype="list">1600 Metres </main>
+            <main maintype="list">3200 Metres</main>
+            <main maintype="list">110 Metre Hurdles - 39"</main>
+            <main maintype="list">300 Metre Hurdles 36"</main>
+            <main maintype="list">4X100 Relay</main>
+            <main maintype="list">4X400 Relay</main>
+            <main maintype="list">4X800 Relay</main>
+            <main maintype="list">Shot Put - 12lb</main>
+            <main maintype="list">Discus - 1.6kg</main>
+            <main maintype="list">High Jump</main>
+            <main maintype="list">Long Jump</main>
+            </subcontent>
+            <subcontent>
+            <subheadline>Practice Time</subheadline>
+            <main maintype="normal">Track and Field practices are held on Mondays through Thursdays every week throughout the spring season from 3:30pm to 5:00pm. During practice, participants are split up according to what events they sign up for. Jumpers will practice as a group with Mr. Vogt while distance runners will practice as a group with Mr. Washio. For sprinting, practice can occur at the tennis courts, the field, or around St. Mary's International School. For distance practice, they run around St. Mary's and Tamagawa river. Jumping practice is on the field or the weight room. Lastly, throwing practices are conducted either on the field or, in the event of bad weather, in the weight room.</main>
+            </subcontent>
+            <subcontent>
+            <subheadline>Season Summary 2014</subheadline>
+            <main maintype="normal">As a school, we participate in many different meets. Overall we do very well. Last year, we had several excellent athletes in all the events. Below is a brief overview of the top ten places of each event during last year's season for Finals. For more results, click the following link: <main maintype="normal">&lt;a href=&quot;http://www.athletic.net/TrackAndField/School.aspx?SchoolID=21660&quot;&gt; Track and Field Results &lt;/a&gt;</main> </main>
+                    <main maintype="list">100 Meters, 5th 7th 8th and 9th place</main>
+            <main maintype="list">200 Meters, 5th and 7th place</main>
+            <main maintype="list">400 Meters, 3rd and 9th place</main>
+            <main maintype="list">800 Meters, 3rd 5th and 8th place</main>
+            <main maintype="list">1600 Meters, 6th place</main>
+            <main maintype="list">3200 Meters,  4th 5th and 9th place</main>
+            <main maintype="list">110 Meter Hurdles, 6th place</main>
+            <main maintype="list">300 Meter Hurdles, 10th and 12th place</main>
+            <main maintype="list">4x100 Relay, 5th and 6th place</main>
+            <main maintype="list">4x400 Relay, 4th and 5th place</main>
+            <main maintype="list">Shot Put, 10th place</main>
+            <main maintype="list">Discus, 7th place</main>
+            <main maintype="list">High Jump, 4th and 9th place</main>
+            <main maintype="list">Long Jump, 2nd and 4th place</main>            
+        </subcontent>
+    </content>
+</cas>
